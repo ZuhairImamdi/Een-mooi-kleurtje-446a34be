@@ -1,0 +1,22 @@
+h1 {
+    font-size:80px;
+    color: red;
+}
+h2 {
+	color: blue;
+}
+li{ 
+   font-size: 110px;
+   color: orange; }
+
+li.link {
+
+}
+a{
+	font-size: 110px;
+	color: orange;
+}
+
+body{
+	background-color: lightblue
+}
